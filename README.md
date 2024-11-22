@@ -1,4 +1,4 @@
-# Métodos Avanzados en Machine Learning (M2.955)
+# Métodos Avanzados en Machine Learning
 
 Este repositorio contiene las Pruebas de Evaluación Continua (PECs) y actividades prácticas desarrolladas como parte de la asignatura **Métodos Avanzados en Machine Learning**. Las soluciones están implementadas en Python y documentadas en formato `.ipynb` y `.html`.
 
